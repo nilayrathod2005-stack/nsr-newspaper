@@ -465,7 +465,7 @@ def process_entries(entries):
 
 def main():
     print("🗞️  NR TIMES — Fetching news feeds...")
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(DATA_DIR, exist_ok=True)
 
     # Load state & increment issue number
     state = load_state()
