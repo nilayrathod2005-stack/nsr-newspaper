@@ -1,0 +1,4 @@
+# Ignore Python script folders as they are only run in GitHub Actions
+scripts/
+.github/
+requirements.txt
