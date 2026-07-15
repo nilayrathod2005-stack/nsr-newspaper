@@ -1,0 +1,23 @@
+{
+  "holdings": [
+    {"ticker": "NIFTYBEES.NS", "name": "Nippon India Nifty 50 ETF", "quantity": 100, "avgCost": 245.0},
+    {"ticker": "HDFCBANK.NS", "name": "HDFC Bank", "quantity": 25, "avgCost": 1580.0},
+    {"ticker": "RELIANCE.NS", "name": "Reliance Industries", "quantity": 10, "avgCost": 2450.0},
+    {"ticker": "INFY.NS", "name": "Infosys", "quantity": 30, "avgCost": 1420.0},
+    {"ticker": "TCS.NS", "name": "TCS", "quantity": 8, "avgCost": 3600.0},
+    {"ticker": "TATASTEEL.NS", "name": "Tata Steel", "quantity": 50, "avgCost": 135.0},
+    {"ticker": "HINDALCO.NS", "name": "Hindalco Industries", "quantity": 40, "avgCost": 520.0}
+  ],
+  "benchmarks": [
+    {"ticker": "^NSEI", "name": "NIFTY 50"},
+    {"ticker": "^BSESN", "name": "SENSEX"}
+  ],
+  "sidebar_instruments": [
+    {"ticker": "^NSEI", "name": "NIFTY 50"},
+    {"ticker": "^BSESN", "name": "SENSEX"},
+    {"ticker": "USDINR=X", "name": "USD/INR"},
+    {"ticker": "HINDALCO.NS", "name": "Hindalco (Aluminium Proxy)"},
+    {"ticker": "GC=F", "name": "Gold Futures"},
+    {"ticker": "SI=F", "name": "Silver Futures"}
+  ]
+}

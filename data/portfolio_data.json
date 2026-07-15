@@ -1,0 +1,171 @@
+{
+  "lastUpdated": "2026-07-15T12:25:28.281831+05:30",
+  "totalValue": 158877.5,
+  "holdings": [
+    {
+      "ticker": "NIFTYBEES.NS",
+      "name": "Nippon India Nifty 50 ETF",
+      "quantity": 100,
+      "avgCost": 245.0,
+      "currentPrice": 274.85,
+      "dayChange": 0.55,
+      "totalValue": 27485.0,
+      "totalCost": 24500.0,
+      "pnl": 2985.0,
+      "pnlPct": 12.18,
+      "weight": 17.3
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "name": "HDFC Bank",
+      "quantity": 25,
+      "avgCost": 1580.0,
+      "currentPrice": 819.4,
+      "dayChange": 1.24,
+      "totalValue": 20485.0,
+      "totalCost": 39500.0,
+      "pnl": -19015.0,
+      "pnlPct": -48.14,
+      "weight": 12.89
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries",
+      "quantity": 10,
+      "avgCost": 2450.0,
+      "currentPrice": 1304.0,
+      "dayChange": 0.85,
+      "totalValue": 13040.0,
+      "totalCost": 24500.0,
+      "pnl": -11460.0,
+      "pnlPct": -46.78,
+      "weight": 8.21
+    },
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys",
+      "quantity": 30,
+      "avgCost": 1420.0,
+      "currentPrice": 1081.3,
+      "dayChange": -1.06,
+      "totalValue": 32439.0,
+      "totalCost": 42600.0,
+      "pnl": -10161.0,
+      "pnlPct": -23.85,
+      "weight": 20.42
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "quantity": 8,
+      "avgCost": 3600.0,
+      "currentPrice": 2191.0,
+      "dayChange": 0.11,
+      "totalValue": 17528.0,
+      "totalCost": 28800.0,
+      "pnl": -11272.0,
+      "pnlPct": -39.14,
+      "weight": 11.03
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "name": "Tata Steel",
+      "quantity": 50,
+      "avgCost": 135.0,
+      "currentPrice": 188.37,
+      "dayChange": 0.67,
+      "totalValue": 9418.5,
+      "totalCost": 6750.0,
+      "pnl": 2668.5,
+      "pnlPct": 39.53,
+      "weight": 5.93
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "name": "Hindalco Industries",
+      "quantity": 40,
+      "avgCost": 520.0,
+      "currentPrice": 962.05,
+      "dayChange": -1.26,
+      "totalValue": 38482.0,
+      "totalCost": 20800.0,
+      "pnl": 17682.0,
+      "pnlPct": 85.01,
+      "weight": 24.22
+    }
+  ],
+  "correlationLabels": [
+    "Nippon",
+    "HDFC",
+    "Reliance",
+    "Infosys",
+    "TCS",
+    "Tata",
+    "Hindalco"
+  ],
+  "correlationMatrix": [
+    [
+      1.0,
+      0.844,
+      0.586,
+      0.259,
+      0.358,
+      -0.098,
+      0.357
+    ],
+    [
+      0.844,
+      1.0,
+      0.424,
+      0.135,
+      0.217,
+      -0.156,
+      0.247
+    ],
+    [
+      0.586,
+      0.424,
+      1.0,
+      0.137,
+      0.165,
+      -0.13,
+      0.241
+    ],
+    [
+      0.259,
+      0.135,
+      0.137,
+      1.0,
+      0.836,
+      -0.109,
+      0.043
+    ],
+    [
+      0.358,
+      0.217,
+      0.165,
+      0.836,
+      1.0,
+      -0.057,
+      0.144
+    ],
+    [
+      -0.098,
+      -0.156,
+      -0.13,
+      -0.109,
+      -0.057,
+      1.0,
+      -0.066
+    ],
+    [
+      0.357,
+      0.247,
+      0.241,
+      0.043,
+      0.144,
+      -0.066,
+      1.0
+    ]
+  ]
+}

@@ -1,0 +1,4 @@
+feedparser
+yfinance
+pandas
+numpy

@@ -1,0 +1,28 @@
+# Jetro Workspace
+.jetro/
+.agents/
+.cursor/
+.windsurfrules
+.mcp.json
+AGENT.md
+CLAUDE.md
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local logs
+*.log
+refresh.log
+refresh_error.log
