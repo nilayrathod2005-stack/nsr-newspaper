@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-21T19:26:02.214874+05:30",
-  "totalValue": 156978.05,
+  "lastUpdated": "2026-07-22T08:18:33.993192+05:30",
+  "totalValue": NaN,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": 275.13,
-      "dayChange": -0.16,
-      "totalValue": 27513.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 24500.0,
-      "pnl": 3013.0,
-      "pnlPct": 12.3,
-      "weight": 17.53
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -26,7 +26,7 @@
       "totalCost": 39500.0,
       "pnl": -20463.75,
       "pnlPct": -51.81,
-      "weight": 12.13
+      "weight": 0
     },
     {
       "ticker": "RELIANCE.NS",
@@ -39,7 +39,7 @@
       "totalCost": 24500.0,
       "pnl": -11463.0,
       "pnlPct": -46.79,
-      "weight": 8.3
+      "weight": 0
     },
     {
       "ticker": "INFY.NS",
@@ -52,7 +52,7 @@
       "totalCost": 42600.0,
       "pnl": -10395.0,
       "pnlPct": -24.4,
-      "weight": 20.52
+      "weight": 0
     },
     {
       "ticker": "TCS.NS",
@@ -65,7 +65,7 @@
       "totalCost": 28800.0,
       "pnl": -11031.2,
       "pnlPct": -38.3,
-      "weight": 11.32
+      "weight": 0
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -78,20 +78,20 @@
       "totalCost": 6750.0,
       "pnl": 2612.0,
       "pnlPct": 38.7,
-      "weight": 5.96
+      "weight": 0
     },
     {
       "ticker": "HINDALCO.NS",
       "name": "Hindalco Industries",
       "quantity": 40,
       "avgCost": 520.0,
-      "currentPrice": 951.4,
-      "dayChange": 0.38,
-      "totalValue": 38056.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 20800.0,
-      "pnl": 17256.0,
-      "pnlPct": 82.96,
-      "weight": 24.24
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     }
   ],
   "correlationLabels": [
@@ -106,48 +106,48 @@
   "correlationMatrix": [
     [
       1.0,
-      0.822,
-      0.591,
-      0.263,
-      0.362,
+      0.821,
+      0.589,
+      0.262,
+      0.361,
       0.621,
-      0.35
+      0.351
     ],
     [
-      0.822,
+      0.821,
       1.0,
       0.433,
       0.143,
       0.23,
       0.431,
-      0.229
+      0.231
     ],
     [
-      0.591,
+      0.589,
       0.433,
       1.0,
       0.148,
       0.174,
       0.319,
-      0.229
+      0.23
     ],
     [
-      0.263,
+      0.262,
       0.143,
       0.148,
       1.0,
       0.836,
       0.038,
-      0.037
+      0.038
     ],
     [
-      0.362,
+      0.361,
       0.23,
       0.174,
       0.836,
       1.0,
       0.133,
-      0.126
+      0.127
     ],
     [
       0.621,
@@ -159,11 +159,11 @@
       0.651
     ],
     [
-      0.35,
-      0.229,
-      0.229,
-      0.037,
-      0.126,
+      0.351,
+      0.231,
+      0.23,
+      0.038,
+      0.127,
       0.651,
       1.0
     ]
