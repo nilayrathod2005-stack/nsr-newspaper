@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T19:19:10.521375+05:30",
+  "lastUpdated": "2026-07-25T08:18:11.765868+05:30",
   "instruments": [
     {
       "name": "NIFTY 50",
@@ -28,14 +28,14 @@
     {
       "name": "Gold Futures",
       "ticker": "GC=F",
-      "price": 4058.5,
-      "change": 0.29
+      "price": 4055.7,
+      "change": 0.22
     },
     {
       "name": "Silver Futures",
       "ticker": "SI=F",
-      "price": 58.42,
-      "change": 1.08
+      "price": 58.49,
+      "change": 1.2
     }
   ]
 }
