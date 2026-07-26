@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-25T19:08:21.061416+05:30",
+  "lastUpdated": "2026-07-26T08:27:10.568435+05:30",
   "instruments": [
     {
       "name": "NIFTY 50",
       "ticker": "^NSEI",
-      "price": 23767.45,
-      "change": -0.43
+      "price": 23869.6,
+      "change": -0.53
     },
     {
       "name": "SENSEX",
       "ticker": "^BSESN",
-      "price": 76059.77,
-      "change": -0.43
+      "price": 76391.39,
+      "change": -0.47
     },
     {
       "name": "USD/INR",
