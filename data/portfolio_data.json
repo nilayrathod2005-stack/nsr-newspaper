@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-28T19:41:09.997445+05:30",
-  "totalValue": 157357.5,
+  "lastUpdated": "2026-07-29T08:17:22.641678+05:30",
+  "totalValue": NaN,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": 273.53,
-      "dayChange": -0.02,
-      "totalValue": 27353.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 24500.0,
-      "pnl": 2853.0,
-      "pnlPct": 11.64,
-      "weight": 17.38
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -26,20 +26,20 @@
       "totalCost": 39500.0,
       "pnl": -21115.0,
       "pnlPct": -53.46,
-      "weight": 11.68
+      "weight": 0
     },
     {
       "ticker": "RELIANCE.NS",
       "name": "Reliance Industries",
       "quantity": 10,
       "avgCost": 2450.0,
-      "currentPrice": 1267.7,
-      "dayChange": -0.96,
-      "totalValue": 12677.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 24500.0,
-      "pnl": -11823.0,
-      "pnlPct": -48.26,
-      "weight": 8.06
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     },
     {
       "ticker": "INFY.NS",
@@ -52,7 +52,7 @@
       "totalCost": 42600.0,
       "pnl": -9429.0,
       "pnlPct": -22.13,
-      "weight": 21.08
+      "weight": 0
     },
     {
       "ticker": "TCS.NS",
@@ -65,7 +65,7 @@
       "totalCost": 28800.0,
       "pnl": -9616.0,
       "pnlPct": -33.39,
-      "weight": 12.19
+      "weight": 0
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -78,20 +78,20 @@
       "totalCost": 6750.0,
       "pnl": 2381.5,
       "pnlPct": 35.28,
-      "weight": 5.8
+      "weight": 0
     },
     {
       "ticker": "HINDALCO.NS",
       "name": "Hindalco Industries",
       "quantity": 40,
       "avgCost": 520.0,
-      "currentPrice": 936.4,
-      "dayChange": -0.94,
-      "totalValue": 37456.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 20800.0,
-      "pnl": 16656.0,
-      "pnlPct": 80.08,
-      "weight": 23.8
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     }
   ],
   "correlationLabels": [
@@ -107,64 +107,64 @@
     [
       1.0,
       0.822,
-      0.59,
+      0.591,
       0.276,
       0.354,
       0.619,
-      0.347
+      0.348
     ],
     [
       0.822,
       1.0,
-      0.437,
+      0.436,
       0.138,
       0.214,
       0.431,
-      0.223
+      0.222
     ],
     [
-      0.59,
-      0.437,
+      0.591,
+      0.436,
       1.0,
-      0.15,
-      0.153,
-      0.327,
-      0.221
+      0.158,
+      0.165,
+      0.325,
+      0.219
     ],
     [
       0.276,
       0.138,
-      0.15,
+      0.158,
       1.0,
       0.836,
       0.035,
-      0.036
+      0.041
     ],
     [
       0.354,
       0.214,
-      0.153,
+      0.165,
       0.836,
       1.0,
       0.113,
-      0.104
+      0.113
     ],
     [
       0.619,
       0.431,
-      0.327,
+      0.325,
       0.035,
       0.113,
       1.0,
-      0.655
+      0.654
     ],
     [
-      0.347,
-      0.223,
-      0.221,
-      0.036,
-      0.104,
-      0.655,
+      0.348,
+      0.222,
+      0.219,
+      0.041,
+      0.113,
+      0.654,
       1.0
     ]
   ]
