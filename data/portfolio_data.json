@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-31T19:41:24.235610+05:30",
-  "totalValue": 160814.05,
+  "lastUpdated": "2026-08-01T08:27:20.752415+05:30",
+  "totalValue": NaN,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": 277.42,
-      "dayChange": 0.34,
-      "totalValue": 27742.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 24500.0,
-      "pnl": 3242.0,
-      "pnlPct": 13.23,
-      "weight": 17.25
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -26,7 +26,7 @@
       "totalCost": 39500.0,
       "pnl": -20796.25,
       "pnlPct": -52.65,
-      "weight": 11.63
+      "weight": 0
     },
     {
       "ticker": "RELIANCE.NS",
@@ -39,7 +39,7 @@
       "totalCost": 24500.0,
       "pnl": -11422.0,
       "pnlPct": -46.62,
-      "weight": 8.13
+      "weight": 0
     },
     {
       "ticker": "INFY.NS",
@@ -52,7 +52,7 @@
       "totalCost": 42600.0,
       "pnl": -8697.0,
       "pnlPct": -20.42,
-      "weight": 21.08
+      "weight": 0
     },
     {
       "ticker": "TCS.NS",
@@ -65,7 +65,7 @@
       "totalCost": 28800.0,
       "pnl": -9875.2,
       "pnlPct": -34.29,
-      "weight": 11.77
+      "weight": 0
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -78,20 +78,20 @@
       "totalCost": 6750.0,
       "pnl": 2734.5,
       "pnlPct": 40.51,
-      "weight": 5.9
+      "weight": 0
     },
     {
       "ticker": "HINDALCO.NS",
       "name": "Hindalco Industries",
       "quantity": 40,
       "avgCost": 520.0,
-      "currentPrice": 974.45,
-      "dayChange": 0.42,
-      "totalValue": 38978.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 20800.0,
-      "pnl": 18178.0,
-      "pnlPct": 87.39,
-      "weight": 24.24
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     }
   ],
   "correlationLabels": [
@@ -106,15 +106,15 @@
   "correlationMatrix": [
     [
       1.0,
-      0.824,
-      0.593,
-      0.281,
-      0.363,
-      0.641,
-      0.355
+      0.825,
+      0.591,
+      0.283,
+      0.366,
+      0.639,
+      0.354
     ],
     [
-      0.824,
+      0.825,
       1.0,
       0.438,
       0.156,
@@ -123,48 +123,48 @@
       0.237
     ],
     [
-      0.593,
+      0.591,
       0.438,
       1.0,
       0.15,
       0.146,
       0.359,
-      0.247
+      0.245
     ],
     [
-      0.281,
+      0.283,
       0.156,
       0.15,
       1.0,
       0.84,
       0.046,
-      0.05
+      0.051
     ],
     [
-      0.363,
+      0.366,
       0.224,
       0.146,
       0.84,
       1.0,
       0.141,
-      0.132
+      0.134
     ],
     [
-      0.641,
+      0.639,
       0.447,
       0.359,
       0.046,
       0.141,
       1.0,
-      0.625
+      0.624
     ],
     [
-      0.355,
+      0.354,
       0.237,
-      0.247,
-      0.05,
-      0.132,
-      0.625,
+      0.245,
+      0.051,
+      0.134,
+      0.624,
       1.0
     ]
   ]
