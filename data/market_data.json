@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-08-14T18:39:50.795484+05:30",
+  "lastUpdated": "2026-08-15T06:49:27.123947+05:30",
   "instruments": [
     {
       "name": "NIFTY 50",
       "ticker": "^NSEI",
-      "price": 24366.0,
-      "change": -0.12
+      "price": 24395.85,
+      "change": -0.16
     },
     {
       "name": "SENSEX",
       "ticker": "^BSESN",
-      "price": 78009.25,
-      "change": -0.09
+      "price": 78079.96,
+      "change": 0.15
     },
     {
       "name": "USD/INR",
@@ -28,14 +28,14 @@
     {
       "name": "Gold Futures",
       "ticker": "GC=F",
-      "price": 4431.0,
-      "change": 1.54
+      "price": 4432.0,
+      "change": 1.57
     },
     {
       "name": "Silver Futures",
       "ticker": "SI=F",
-      "price": 65.23,
-      "change": 0.55
+      "price": 64.82,
+      "change": -0.07
     }
   ]
 }
