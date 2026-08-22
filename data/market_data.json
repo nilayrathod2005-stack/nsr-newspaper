@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T18:21:27.506421+05:30",
+  "lastUpdated": "2026-08-22T06:49:12.518220+05:30",
   "instruments": [
     {
       "name": "NIFTY 50",
@@ -16,26 +16,26 @@
     {
       "name": "USD/INR",
       "ticker": "USDINR=X",
-      "price": 95.68,
+      "price": 95.69,
       "change": 0.2
     },
     {
       "name": "Hindalco (Aluminium Proxy)",
       "ticker": "HINDALCO.NS",
-      "price": 1034.0,
-      "change": 0.4
+      "price": NaN,
+      "change": NaN
     },
     {
       "name": "Gold Futures",
       "ticker": "GC=F",
-      "price": 4624.9,
-      "change": 2.4
+      "price": 4661.6,
+      "change": 3.22
     },
     {
       "name": "Silver Futures",
       "ticker": "SI=F",
-      "price": 69.29,
-      "change": 1.85
+      "price": 69.01,
+      "change": 1.45
     }
   ]
 }
