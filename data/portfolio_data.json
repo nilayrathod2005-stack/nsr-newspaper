@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-22T18:11:56.019685+05:30",
-  "totalValue": NaN,
+  "lastUpdated": "2026-08-23T06:56:12.766666+05:30",
+  "totalValue": 161565.75,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": NaN,
-      "dayChange": NaN,
-      "totalValue": NaN,
+      "currentPrice": 276.76,
+      "dayChange": 0.07,
+      "totalValue": 27676.0,
       "totalCost": 24500.0,
-      "pnl": NaN,
-      "pnlPct": NaN,
-      "weight": 0
+      "pnl": 3176.0,
+      "pnlPct": 12.96,
+      "weight": 17.13
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -26,7 +26,7 @@
       "totalCost": 39500.0,
       "pnl": -21326.25,
       "pnlPct": -53.99,
-      "weight": 0
+      "weight": 11.25
     },
     {
       "ticker": "RELIANCE.NS",
@@ -39,7 +39,7 @@
       "totalCost": 24500.0,
       "pnl": -11340.0,
       "pnlPct": -46.29,
-      "weight": 0
+      "weight": 8.15
     },
     {
       "ticker": "INFY.NS",
@@ -52,7 +52,7 @@
       "totalCost": 42600.0,
       "pnl": -8970.0,
       "pnlPct": -21.06,
-      "weight": 0
+      "weight": 20.82
     },
     {
       "ticker": "TCS.NS",
@@ -65,7 +65,7 @@
       "totalCost": 28800.0,
       "pnl": -10384.0,
       "pnlPct": -36.06,
-      "weight": 0
+      "weight": 11.4
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -78,20 +78,20 @@
       "totalCost": 6750.0,
       "pnl": 2400.0,
       "pnlPct": 35.56,
-      "weight": 0
+      "weight": 5.66
     },
     {
       "ticker": "HINDALCO.NS",
       "name": "Hindalco Industries",
       "quantity": 40,
       "avgCost": 520.0,
-      "currentPrice": NaN,
-      "dayChange": NaN,
-      "totalValue": NaN,
+      "currentPrice": 1034.0,
+      "dayChange": 0.4,
+      "totalValue": 41360.0,
       "totalCost": 20800.0,
-      "pnl": NaN,
-      "pnlPct": NaN,
-      "weight": 0
+      "pnl": 20560.0,
+      "pnlPct": 98.85,
+      "weight": 25.6
     }
   ],
   "correlationLabels": [
@@ -129,7 +129,7 @@
       0.165,
       0.136,
       0.272,
-      0.165
+      0.166
     ],
     [
       0.307,
@@ -147,7 +147,7 @@
       0.812,
       1.0,
       0.14,
-      0.116
+      0.117
     ],
     [
       0.631,
@@ -161,9 +161,9 @@
     [
       0.308,
       0.215,
-      0.165,
+      0.166,
       0.059,
-      0.116,
+      0.117,
       0.607,
       1.0
     ]
