@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-09-17T21:59:17.745707+05:30",
-  "totalValue": 154734.5,
+  "lastUpdated": "2026-09-18T09:14:32.536707+05:30",
+  "totalValue": NaN,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": 266.08,
-      "dayChange": 0.57,
-      "totalValue": 26608.0,
+      "currentPrice": NaN,
+      "dayChange": NaN,
+      "totalValue": NaN,
       "totalCost": 24500.0,
-      "pnl": 2108.0,
-      "pnlPct": 8.6,
-      "weight": 17.2
+      "pnl": NaN,
+      "pnlPct": NaN,
+      "weight": 0
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -21,12 +21,12 @@
       "quantity": 25,
       "avgCost": 1580.0,
       "currentPrice": 713.0,
-      "dayChange": -1.18,
+      "dayChange": 0.0,
       "totalValue": 17825.0,
       "totalCost": 39500.0,
       "pnl": -21675.0,
       "pnlPct": -54.87,
-      "weight": 11.52
+      "weight": 0
     },
     {
       "ticker": "RELIANCE.NS",
@@ -34,12 +34,12 @@
       "quantity": 10,
       "avgCost": 2450.0,
       "currentPrice": 1243.9,
-      "dayChange": 0.31,
+      "dayChange": 0.0,
       "totalValue": 12439.0,
       "totalCost": 24500.0,
       "pnl": -12061.0,
       "pnlPct": -49.23,
-      "weight": 8.04
+      "weight": 0
     },
     {
       "ticker": "INFY.NS",
@@ -47,12 +47,12 @@
       "quantity": 30,
       "avgCost": 1420.0,
       "currentPrice": 1058.6,
-      "dayChange": -0.13,
+      "dayChange": 0.0,
       "totalValue": 31758.0,
       "totalCost": 42600.0,
       "pnl": -10842.0,
       "pnlPct": -25.45,
-      "weight": 20.52
+      "weight": 0
     },
     {
       "ticker": "TCS.NS",
@@ -60,12 +60,12 @@
       "quantity": 8,
       "avgCost": 3600.0,
       "currentPrice": 2190.0,
-      "dayChange": 0.05,
+      "dayChange": 0.0,
       "totalValue": 17520.0,
       "totalCost": 28800.0,
       "pnl": -11280.0,
       "pnlPct": -39.17,
-      "weight": 11.32
+      "weight": 0
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -73,12 +73,12 @@
       "quantity": 50,
       "avgCost": 135.0,
       "currentPrice": 187.29,
-      "dayChange": 2.34,
+      "dayChange": 0.0,
       "totalValue": 9364.5,
       "totalCost": 6750.0,
       "pnl": 2614.5,
       "pnlPct": 38.73,
-      "weight": 6.05
+      "weight": 0
     },
     {
       "ticker": "HINDALCO.NS",
@@ -86,12 +86,12 @@
       "quantity": 40,
       "avgCost": 520.0,
       "currentPrice": 980.5,
-      "dayChange": 0.8,
+      "dayChange": NaN,
       "totalValue": 39220.0,
       "totalCost": 20800.0,
       "pnl": 18420.0,
       "pnlPct": 88.56,
-      "weight": 25.35
+      "weight": 0
     }
   ],
   "correlationLabels": [
@@ -106,43 +106,43 @@
   "correlationMatrix": [
     [
       1.0,
-      -0.102,
-      -0.152,
-      -0.013,
+      -0.099,
+      -0.154,
+      -0.012,
       0.029,
-      -0.108,
-      0.233
+      -0.114,
+      0.231
     ],
     [
-      -0.102,
+      -0.099,
       1.0,
       0.405,
       0.211,
-      0.207,
+      0.208,
       0.368,
-      0.066
+      0.069
     ],
     [
-      -0.152,
+      -0.154,
       0.405,
       1.0,
       0.186,
       0.133,
       0.315,
-      -0.002
+      -0.003
     ],
     [
-      -0.013,
+      -0.012,
       0.211,
       0.186,
       1.0,
       0.797,
       0.13,
-      -0.176
+      -0.175
     ],
     [
       0.029,
-      0.207,
+      0.208,
       0.133,
       0.797,
       1.0,
@@ -150,21 +150,21 @@
       -0.079
     ],
     [
-      -0.108,
+      -0.114,
       0.368,
       0.315,
       0.13,
       0.094,
       1.0,
-      0.159
+      0.152
     ],
     [
-      0.233,
-      0.066,
-      -0.002,
-      -0.176,
+      0.231,
+      0.069,
+      -0.003,
+      -0.175,
       -0.079,
-      0.159,
+      0.152,
       1.0
     ]
   ]
