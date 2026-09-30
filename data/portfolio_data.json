@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-29T23:19:32.131289+05:30",
-  "totalValue": 150163.7,
+  "lastUpdated": "2026-09-30T10:04:13.868686+05:30",
+  "totalValue": 150234.1,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": 259.47,
-      "dayChange": -1.76,
-      "totalValue": 25947.0,
+      "currentPrice": 259.65,
+      "dayChange": -0.31,
+      "totalValue": 25965.0,
       "totalCost": 24500.0,
-      "pnl": 1447.0,
-      "pnlPct": 5.91,
+      "pnl": 1465.0,
+      "pnlPct": 5.98,
       "weight": 17.28
     },
     {
@@ -20,78 +20,78 @@
       "name": "HDFC Bank",
       "quantity": 25,
       "avgCost": 1580.0,
-      "currentPrice": 722.7,
-      "dayChange": 0.51,
-      "totalValue": 18067.5,
+      "currentPrice": 712.5,
+      "dayChange": -1.41,
+      "totalValue": 17812.5,
       "totalCost": 39500.0,
-      "pnl": -21432.5,
-      "pnlPct": -54.26,
-      "weight": 12.03
+      "pnl": -21687.5,
+      "pnlPct": -54.91,
+      "weight": 11.86
     },
     {
       "ticker": "RELIANCE.NS",
       "name": "Reliance Industries",
       "quantity": 10,
       "avgCost": 2450.0,
-      "currentPrice": 1182.0,
-      "dayChange": -1.3,
-      "totalValue": 11820.0,
+      "currentPrice": 1190.0,
+      "dayChange": 0.68,
+      "totalValue": 11900.0,
       "totalCost": 24500.0,
-      "pnl": -12680.0,
-      "pnlPct": -51.76,
-      "weight": 7.87
+      "pnl": -12600.0,
+      "pnlPct": -51.43,
+      "weight": 7.92
     },
     {
       "ticker": "INFY.NS",
       "name": "Infosys",
       "quantity": 30,
       "avgCost": 1420.0,
-      "currentPrice": 1015.4,
-      "dayChange": 1.22,
-      "totalValue": 30462.0,
+      "currentPrice": 1018.2,
+      "dayChange": 0.28,
+      "totalValue": 30546.0,
       "totalCost": 42600.0,
-      "pnl": -12138.0,
-      "pnlPct": -28.49,
-      "weight": 20.29
+      "pnl": -12054.0,
+      "pnlPct": -28.3,
+      "weight": 20.33
     },
     {
       "ticker": "TCS.NS",
       "name": "TCS",
       "quantity": 8,
       "avgCost": 3600.0,
-      "currentPrice": 2032.4,
-      "dayChange": -1.85,
-      "totalValue": 16259.2,
+      "currentPrice": 2090.2,
+      "dayChange": 2.84,
+      "totalValue": 16721.6,
       "totalCost": 28800.0,
-      "pnl": -12540.8,
-      "pnlPct": -43.54,
-      "weight": 10.83
+      "pnl": -12078.4,
+      "pnlPct": -41.94,
+      "weight": 11.13
     },
     {
       "ticker": "TATASTEEL.NS",
       "name": "Tata Steel",
       "quantity": 50,
       "avgCost": 135.0,
-      "currentPrice": 188.0,
-      "dayChange": 0.91,
-      "totalValue": 9400.0,
+      "currentPrice": 188.5,
+      "dayChange": 0.27,
+      "totalValue": 9425.0,
       "totalCost": 6750.0,
-      "pnl": 2650.0,
-      "pnlPct": 39.26,
-      "weight": 6.26
+      "pnl": 2675.0,
+      "pnlPct": 39.63,
+      "weight": 6.27
     },
     {
       "ticker": "HINDALCO.NS",
       "name": "Hindalco Industries",
       "quantity": 40,
       "avgCost": 520.0,
-      "currentPrice": 955.2,
-      "dayChange": -0.07,
-      "totalValue": 38208.0,
+      "currentPrice": 946.6,
+      "dayChange": -0.9,
+      "totalValue": 37864.0,
       "totalCost": 20800.0,
-      "pnl": 17408.0,
-      "pnlPct": 83.69,
-      "weight": 25.44
+      "pnl": 17064.0,
+      "pnlPct": 82.04,
+      "weight": 25.2
     }
   ],
   "correlationLabels": [
@@ -106,65 +106,65 @@
   "correlationMatrix": [
     [
       1.0,
-      -0.113,
-      -0.034,
-      0.072,
-      0.103,
-      -0.052,
+      -0.109,
+      -0.04,
+      0.075,
+      0.095,
+      -0.05,
+      0.03
+    ],
+    [
+      -0.109,
+      1.0,
+      0.389,
+      0.164,
+      0.145,
+      0.234,
+      0.041
+    ],
+    [
+      -0.04,
+      0.389,
+      1.0,
+      0.129,
+      0.141,
+      0.264,
+      0.191
+    ],
+    [
+      0.075,
+      0.164,
+      0.129,
+      1.0,
+      0.768,
+      0.067,
       0.028
     ],
     [
-      -0.113,
+      0.095,
+      0.145,
+      0.141,
+      0.768,
       1.0,
-      0.395,
-      0.166,
-      0.158,
-      0.236,
-      0.037
+      0.049,
+      0.044
     ],
     [
-      -0.034,
-      0.395,
-      1.0,
-      0.128,
-      0.136,
-      0.263,
-      0.195
-    ],
-    [
-      0.072,
-      0.166,
-      0.128,
-      1.0,
-      0.772,
+      -0.05,
+      0.234,
+      0.264,
       0.067,
-      0.029
-    ],
-    [
-      0.103,
-      0.158,
-      0.136,
-      0.772,
+      0.049,
       1.0,
-      0.047,
-      0.05
+      0.59
     ],
     [
-      -0.052,
-      0.236,
-      0.263,
-      0.067,
-      0.047,
-      1.0,
-      0.592
-    ],
-    [
+      0.03,
+      0.041,
+      0.191,
       0.028,
-      0.037,
-      0.195,
-      0.029,
-      0.05,
-      0.592,
+      0.044,
+      0.59,
       1.0
     ]
   ]
