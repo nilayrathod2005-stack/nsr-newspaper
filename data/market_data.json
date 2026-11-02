@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-11-01T23:14:24.027289+05:30",
+  "lastUpdated": "2026-11-02T10:27:10.977029+05:30",
   "instruments": [
     {
       "name": "NIFTY 50",
       "ticker": "^NSEI",
-      "price": 23053.1,
-      "change": 0.51
+      "price": 23335.2,
+      "change": 1.22
     },
     {
       "name": "SENSEX",
       "ticker": "^BSESN",
-      "price": 74459.53,
-      "change": 0.42
+      "price": 75432.52,
+      "change": 1.31
     },
     {
       "name": "USD/INR",
       "ticker": "USDINR=X",
-      "price": 94.94,
-      "change": -0.22
+      "price": 94.83,
+      "change": -0.34
     },
     {
       "name": "Hindalco (Aluminium Proxy)",
       "ticker": "HINDALCO.NS",
-      "price": 884.7,
-      "change": -0.18
+      "price": 898.0,
+      "change": 1.5
     },
     {
       "name": "Gold Futures",
       "ticker": "GC=F",
-      "price": 3898.9,
-      "change": -3.29
+      "price": 3908.9,
+      "change": 0.26
     },
     {
       "name": "Silver Futures",
       "ticker": "SI=F",
-      "price": 49.28,
-      "change": -5.59
+      "price": 50.06,
+      "change": 1.97
     }
   ]
 }
