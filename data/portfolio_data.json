@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-11-21T11:33:25.678044+05:30",
-  "totalValue": NaN,
+  "lastUpdated": "2026-11-22T00:19:09.847545+05:30",
+  "totalValue": 162376.6,
   "holdings": [
     {
       "ticker": "NIFTYBEES.NS",
       "name": "Nippon India Nifty 50 ETF",
       "quantity": 100,
       "avgCost": 245.0,
-      "currentPrice": NaN,
-      "dayChange": NaN,
-      "totalValue": NaN,
+      "currentPrice": 294.22,
+      "dayChange": 1.24,
+      "totalValue": 29422.0,
       "totalCost": 24500.0,
-      "pnl": NaN,
-      "pnlPct": NaN,
-      "weight": 0
+      "pnl": 4922.0,
+      "pnlPct": 20.09,
+      "weight": 18.12
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -26,7 +26,7 @@
       "totalCost": 39500.0,
       "pnl": -18350.0,
       "pnlPct": -46.46,
-      "weight": 0
+      "weight": 13.03
     },
     {
       "ticker": "RELIANCE.NS",
@@ -39,7 +39,7 @@
       "totalCost": 24500.0,
       "pnl": -10725.0,
       "pnlPct": -43.78,
-      "weight": 0
+      "weight": 8.48
     },
     {
       "ticker": "INFY.NS",
@@ -52,7 +52,7 @@
       "totalCost": 42600.0,
       "pnl": -9660.0,
       "pnlPct": -22.68,
-      "weight": 0
+      "weight": 20.29
     },
     {
       "ticker": "TCS.NS",
@@ -65,7 +65,7 @@
       "totalCost": 28800.0,
       "pnl": -9790.4,
       "pnlPct": -33.99,
-      "weight": 0
+      "weight": 11.71
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -78,7 +78,7 @@
       "totalCost": 6750.0,
       "pnl": 2150.0,
       "pnlPct": 31.85,
-      "weight": 0
+      "weight": 5.48
     },
     {
       "ticker": "HINDALCO.NS",
@@ -91,7 +91,7 @@
       "totalCost": 20800.0,
       "pnl": 16380.0,
       "pnlPct": 78.75,
-      "weight": 0
+      "weight": 22.9
     }
   ],
   "correlationLabels": [
@@ -106,15 +106,15 @@
   "correlationMatrix": [
     [
       1.0,
-      0.638,
-      0.533,
-      0.294,
-      0.304,
-      0.49,
-      0.375
+      0.658,
+      0.529,
+      0.295,
+      0.31,
+      0.471,
+      0.39
     ],
     [
-      0.638,
+      0.658,
       1.0,
       0.331,
       0.285,
@@ -123,7 +123,7 @@
       0.183
     ],
     [
-      0.533,
+      0.529,
       0.331,
       1.0,
       0.062,
@@ -132,7 +132,7 @@
       0.256
     ],
     [
-      0.294,
+      0.295,
       0.285,
       0.062,
       1.0,
@@ -141,7 +141,7 @@
       0.148
     ],
     [
-      0.304,
+      0.31,
       0.161,
       0.117,
       0.752,
@@ -150,7 +150,7 @@
       0.104
     ],
     [
-      0.49,
+      0.471,
       0.168,
       0.458,
       0.092,
@@ -159,7 +159,7 @@
       0.633
     ],
     [
-      0.375,
+      0.39,
       0.183,
       0.256,
       0.148,
