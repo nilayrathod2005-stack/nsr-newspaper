@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T00:19:09.847553+05:30",
+  "lastUpdated": "2026-11-22T11:09:06.808582+05:30",
   "instruments": [
     {
       "name": "NIFTY 50",
@@ -34,8 +34,8 @@
     {
       "name": "Silver Futures",
       "ticker": "SI=F",
-      "price": 41.03,
-      "change": -7.41
+      "price": 41.07,
+      "change": -7.33
     }
   ]
 }
